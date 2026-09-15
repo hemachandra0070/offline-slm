@@ -47,7 +47,7 @@ cd offline-slm
 
 5. **Place the Model File**: Copy the downloaded file to the assets directory
    ```
-   Pragnya/app/src/main/assets/gemma3-1b-it-int4.task
+   offline-slm/app/src/main/assets/gemma3-1b-it-int4.task
    ```
 
 **Important Notes:**
