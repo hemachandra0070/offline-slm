@@ -1,6 +1,6 @@
-# Pragnya - AI-Powered Chat with Image OCR
+# AI-Powered Chat with Image OCR
 
-Pragnya is an Android application that provides an intelligent chat interface powered by Google's Gemma AI model. The app features text-based conversations and image text extraction (OCR) capabilities using Google's ML Kit.
+This is an Android application that provides an intelligent chat interface powered by Google's Gemma AI model. The app features text-based conversations and image text extraction (OCR) capabilities using Google's ML Kit.
 
 > **🚀 Quick Start**: Want to get started fast? Check out [QUICKSTART.md](QUICKSTART.md) for a 3-step setup guide!
 
