@@ -27,8 +27,8 @@ Before building and running the app, ensure you have:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/prakash2077/Pragnya.git
-cd Pragnya
+git clone https://github.com/hemachandra0070/offline-slm
+cd offline-slm
 ```
 
 ### Step 2: Download the Gemma Model File
@@ -80,7 +80,7 @@ This script will:
 
 1. Launch Android Studio
 2. Select **File → Open**
-3. Navigate to the cloned `Pragnya` directory
+3. Navigate to the cloned `offline-slm` directory
 4. Click **OK** to open the project
 5. Wait for Gradle sync to complete (this may take a few minutes)
 
@@ -109,7 +109,7 @@ This script will:
 ## Project Structure
 
 ```
-Pragnya/
+offline-slm/
 ├── app/
 │   ├── src/
 │   │   ├── main/
